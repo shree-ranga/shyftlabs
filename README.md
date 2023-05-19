@@ -51,8 +51,8 @@ If all goes well, go to http://127.0.0.1:8000 and your server should be up and r
 
 ```json
 {
-  "first_name": "Shyt",
-  "famil_name": "Labs",
+  "first_name": "Shyft",
+  "family_name": "Labs",
   "dob": "1998-10-30",
   "email": "test@shyftlabs.com"
 }
