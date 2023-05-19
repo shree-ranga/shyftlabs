@@ -46,7 +46,7 @@ If all goes well, go to http://127.0.0.1:8000 and your server should be up and r
 
 ##### Students
 
-**GET** /students - Fetches all the students from the database.
+**GET** /students - Fetches all the students from the database.\
 **POST** /students/ - Create a student.
 
 ```json
@@ -62,7 +62,7 @@ If all goes well, go to http://127.0.0.1:8000 and your server should be up and r
 
 ##### Courses
 
-**GET** /courses - Fetches all the courses from the database.
+**GET** /courses - Fetches all the courses from the database.\
 **POST** /courses/ - Create a course.
 
 ```json
@@ -75,7 +75,7 @@ If all goes well, go to http://127.0.0.1:8000 and your server should be up and r
 
 ##### Results
 
-**GET** /results - Fetches all the results from the database.
+**GET** /results - Fetches all the results from the database.\
 **POST** /results/ - Create a result.
 
 ```json
