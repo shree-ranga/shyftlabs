@@ -12,7 +12,7 @@
 python3 -m pip install --user virtualenv
 ```
 
-- Create virtual environment
+- Create a virtual environment
 
 ```sh
 python3 -m venv venv
@@ -71,7 +71,7 @@ If all goes well, go to http://127.0.0.1:8000 and your server should be up and r
 }
 ```
 
-**DEL** /courses/<int:pk> - Delete a course given it's id.
+**DEL** /courses/<int:pk> - Delete a course given its id.
 
 ##### Results
 
@@ -86,7 +86,7 @@ If all goes well, go to http://127.0.0.1:8000 and your server should be up and r
 }
 ```
 
-**DEL** /courses/<int:pk> - Delete a course given it's id.
+**DEL** /courses/<int:pk> - Delete a course given its id.
 
 ### Improvements
 
